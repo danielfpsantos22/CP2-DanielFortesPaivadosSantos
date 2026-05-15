@@ -43,4 +43,4 @@ Projeto desenvolvido utilizando:
 
 - CP5: https://github.com/danielfpsantos22/CP2-DanielFortesPaivadosSantos/releases/tag/cp5-entrega
 
-- CP6: 
+- CP6: https://github.com/danielfpsantos22/CP2-DanielFortesPaivadosSantos/releases/tag/cp6-entrega
